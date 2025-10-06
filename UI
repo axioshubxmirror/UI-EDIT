@@ -124,7 +124,7 @@ function Library:Window(title)
     Logo.BackgroundTransparency = 1.000
     Logo.Position = UDim2.new(0, 4, 0.5, 0)
     Logo.Size = UDim2.new(0, 26, 0, 26)
-    Logo.Image = "rbxassetid://73039549417777"
+    -- Logo.Image = "rbxassetid://73039549417777"
     
     local Close = Instance.new("ImageButton")
     Close.Name = "Close"
